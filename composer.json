@@ -1,0 +1,15 @@
+{
+    "name": "user/poscurl",
+    "autoload": {
+        "psr-4": {
+            "User\\Poscurl\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Agajan",
+            "email": "agajanakmyradow07@gmauil.com"
+        }
+    ],
+    "require": {}
+}
